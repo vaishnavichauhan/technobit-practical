@@ -1,0 +1,24 @@
+.bgc{
+    background-color:pink;
+}
+.btndata{
+    width: 200px;
+}
+.uploadimg{
+    text-align: center;
+}
+.uploadbtnimg{
+    width: 200px;
+    text-align: left;
+    margin-bottom: 15px;
+}
+.updateimg{
+    text-align: left;
+}
+.recimgbtn{
+    width:250px;
+    text-align: left;
+}
+.fromstl{
+    margin-top: 100px;
+}
